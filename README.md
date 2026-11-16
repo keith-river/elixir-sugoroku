@@ -12,6 +12,13 @@ Elixir / Phoenix LiveView を用いたマルチプレイ対応の分散型すご
 
 ---
 
+![alt text](image.png)
+
+
+![alt text](image-1.png)
+
+
+
 ## 起動方法（分散マルチプレイ）
 
 ゲームを遊ぶには、**ホストノード（GameServer）**を1台立ち上げ、そのあとに**クライアントノード**を接続します。
