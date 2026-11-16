@@ -1,0 +1,18 @@
+# Elixir / Erlang
+/_build/
+/deps/
+*.beam
+.elixir_ls/
+/.hex/
+/.rebar/
+
+# Phoenix
+/priv/static/assets/
+/assets/node_modules/
+
+# OS / Editor junk
+.DS_Store
+.env
+*~
+*.swp
+
